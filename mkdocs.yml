@@ -8,7 +8,7 @@ nav:
       - 本地环境搭建: install/local.md
       - 发布至GitHub Pages: install/github-pages.md
       - 发布至自己的HTTP Server: install/http-server.md
-  - 语法123:
+  - 语法1234:
       - 语法总览: syntax/main.md
       - 标题: syntax/headline.md
       - 段落: syntax/paragraph.md
